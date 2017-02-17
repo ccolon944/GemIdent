@@ -33,9 +33,11 @@ Icon?
 Thumbs.db
 
 # other stuff project specific
-
+.classpath
 bin/*
 .project
 .gitignore~
 .gitignore.swp
 .settings/*
+.idea/*
+out/*
